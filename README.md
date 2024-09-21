@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<img align "left" alt="coding" width = "400"src ="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align ="right" alt="coding" width = "400"src ="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitas2311&label=Profile%20views&color=0e75b6&style=flat" alt="nikitas2311" /> </p>
 
